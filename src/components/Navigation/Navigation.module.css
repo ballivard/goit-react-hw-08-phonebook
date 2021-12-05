@@ -1,0 +1,9 @@
+.list {
+  display: inline-flex;
+  list-style: none;
+}
+.item {
+  padding: 15px;
+  color: darkturquoise;
+  font-size: 26px;
+}

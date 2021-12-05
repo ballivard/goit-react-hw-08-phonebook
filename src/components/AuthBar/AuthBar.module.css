@@ -1,0 +1,21 @@
+.container {
+  display: inline-flex;
+  align-items: center;
+  text-align: center;
+}
+.title {
+  text-align: center;
+}
+.button {
+  margin-left: 25px;
+  margin-right: 50px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: darkgrey;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: darkviolet;
+  color: aqua;
+}
